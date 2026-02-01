@@ -1,0 +1,14 @@
+# CLion/JetBrains headers and project files
+.idea/
+cmake-build-*/
+
+# Compiled binaries
+*.exe
+*.obj
+*.o
+*.a
+*.lib
+
+# Log files
+*.log
+clion-Debug-log.txt
